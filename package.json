@@ -1,0 +1,27 @@
+{
+  "name": "com.thekrocker.autosoassistant",
+  "version": "1.0.0",
+  "displayName": "Auto SO Field Assistant",
+  "description": "Adds a 'Create' button to all null ScriptableObject fields in the Unity Inspector. Automatically detects any ScriptableObject reference and allows quick creation and assignment without attributes or boilerplate.",
+  "unity": "2021.3",
+  "keywords": [
+    "editor",
+    "scriptableobject",
+    "tool",
+    "utility",
+    "inspector",
+    "auto-create"
+  ],
+  "author": {
+    "name": "Safa Dedeakay",
+    "email": "sdedeakay@yahoo.com",
+    "url": "https://github.com/thekrocker"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Shows how to use the Auto SO Field Assistant with a MonoBehaviour referencing a ScriptableObject.",
+      "path": "Samples~"
+    }
+  ]
+}
